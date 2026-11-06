@@ -16,7 +16,7 @@
 [![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-freelancer/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-freelancer)
 [![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-freelancer/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-freelancer?type=dev)
 
-## Download and Installation
+## Download and Installation this amazing software
 
 To begin using this template, choose one of the following options to get started:
 
